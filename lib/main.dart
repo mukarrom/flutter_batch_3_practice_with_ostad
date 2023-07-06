@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:practice_with_ostad/my_practice/todoApp/myToDoPage.dart';
+
+import 'my_practice/new_practice/screen1.dart';
+// import 'package:practice_with_ostad/my_practice/todoApp/myToDoPage.dart';
 // import 'package:practice_with_ostad/rafat/navigation/home.dart';
 // import 'package:practice_with_ostad/rabbil/sum_app.dart';
 
