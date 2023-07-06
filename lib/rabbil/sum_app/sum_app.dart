@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:practice_with_ostad/rabbil/rabbil_style.dart';
+import 'package:practice_with_ostad/rabbil/sum_app/rabbil_style.dart';
 
 class SumApp extends StatelessWidget {
   const SumApp({super.key});
