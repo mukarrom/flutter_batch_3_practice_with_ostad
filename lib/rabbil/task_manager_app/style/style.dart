@@ -12,7 +12,7 @@ const colorDarkBlue = Color.fromRGBO(44, 62, 80, 1.0);
 const colorLightGray = Color.fromRGBO(135, 142, 150, 1.0);
 const colorLight = Color.fromRGBO(211, 211, 211, 1.0);
 
-TextStyle head1Text(textColor) {
+TextStyle heading1Text(textColor) {
   return TextStyle(
     color: textColor,
     fontSize: 28,
@@ -21,7 +21,7 @@ TextStyle head1Text(textColor) {
   );
 }
 
-TextStyle head6Text(textColor) {
+TextStyle heading4Text(textColor) {
   return TextStyle(
     color: textColor,
     fontSize: 16,
